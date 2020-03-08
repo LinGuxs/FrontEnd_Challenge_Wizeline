@@ -4,7 +4,7 @@
   "description": "QA Automation Frontend Project",
   "main": "index.js",
   "scripts": {
-    "test2:chrome": "testcafe chrome src/todoist/tests/sauceDemo.test.js --selector-timeout 35000 --assertion-timeout 35000"
+    "test2:chrome": "testcafe chrome -c 2 src/todoist/tests/*.test.js -r json:Results.json --selector-timeout 35000 --assertion-timeout 35000"
   },
   "author": "LinGus",
   "license": "ISC",

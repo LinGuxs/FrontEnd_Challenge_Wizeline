@@ -1,6 +1,6 @@
 {
-  "startTime": "2020-03-08T01:12:28.891Z",
-  "endTime": "2020-03-08T01:13:31.562Z",
+  "startTime": "2020-03-08T01:33:43.464Z",
+  "endTime": "2020-03-08T01:34:55.485Z",
   "userAgents": [
     "Chrome 79.0.3945.117 / Linux 0.0"
   ],
@@ -17,7 +17,7 @@
           "name": "1-  Login with a valid user",
           "meta": {},
           "errs": [],
-          "durationMs": 14112,
+          "durationMs": 16736,
           "screenshotPath": null,
           "skipped": false
         },
@@ -25,7 +25,7 @@
           "name": "2- Login with a invalid user",
           "meta": {},
           "errs": [],
-          "durationMs": 14111,
+          "durationMs": 17420,
           "screenshotPath": null,
           "skipped": false
         },
@@ -33,7 +33,7 @@
           "name": "3- Logout from product’s page",
           "meta": {},
           "errs": [],
-          "durationMs": 11641,
+          "durationMs": 17608,
           "screenshotPath": null,
           "skipped": false
         },
@@ -41,7 +41,7 @@
           "name": "4- Navigate to the shopping cart",
           "meta": {},
           "errs": [],
-          "durationMs": 10411,
+          "durationMs": 12289,
           "screenshotPath": null,
           "skipped": false
         },
@@ -49,7 +49,7 @@
           "name": "5- Add a single item to the shopping cart",
           "meta": {},
           "errs": [],
-          "durationMs": 11737,
+          "durationMs": 7652,
           "screenshotPath": null,
           "skipped": false
         },
@@ -57,7 +57,7 @@
           "name": "7- Continue with missing information",
           "meta": {},
           "errs": [],
-          "durationMs": 15481,
+          "durationMs": 14145,
           "screenshotPath": null,
           "skipped": false
         },
@@ -65,7 +65,7 @@
           "name": "8- Fill user’s information",
           "meta": {},
           "errs": [],
-          "durationMs": 17070,
+          "durationMs": 13991,
           "screenshotPath": null,
           "skipped": false
         },
@@ -73,7 +73,7 @@
           "name": "9- Final order items",
           "meta": {},
           "errs": [],
-          "durationMs": 12366,
+          "durationMs": 14605,
           "screenshotPath": null,
           "skipped": false
         },
@@ -81,7 +81,7 @@
           "name": "10- Final order items",
           "meta": {},
           "errs": [],
-          "durationMs": 14491,
+          "durationMs": 14860,
           "screenshotPath": null,
           "skipped": false
         },
@@ -89,7 +89,7 @@
           "name": "6- Add multiple items to the shopping cart",
           "meta": {},
           "errs": [],
-          "durationMs": 10238,
+          "durationMs": 12755,
           "screenshotPath": null,
           "skipped": false
         }
