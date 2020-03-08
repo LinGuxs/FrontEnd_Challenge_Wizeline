@@ -1,0 +1,100 @@
+{
+  "startTime": "2020-03-08T01:12:28.891Z",
+  "endTime": "2020-03-08T01:13:31.562Z",
+  "userAgents": [
+    "Chrome 79.0.3945.117 / Linux 0.0"
+  ],
+  "passed": 10,
+  "total": 10,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "Login Test sauce",
+      "path": "/home/lingux/Desktop/wizeline-academy-ws/qa-automation-academy/src/todoist/tests/sauceDemo.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "1-  Login with a valid user",
+          "meta": {},
+          "errs": [],
+          "durationMs": 14112,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "2- Login with a invalid user",
+          "meta": {},
+          "errs": [],
+          "durationMs": 14111,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "3- Logout from product’s page",
+          "meta": {},
+          "errs": [],
+          "durationMs": 11641,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "4- Navigate to the shopping cart",
+          "meta": {},
+          "errs": [],
+          "durationMs": 10411,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "5- Add a single item to the shopping cart",
+          "meta": {},
+          "errs": [],
+          "durationMs": 11737,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "7- Continue with missing information",
+          "meta": {},
+          "errs": [],
+          "durationMs": 15481,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "8- Fill user’s information",
+          "meta": {},
+          "errs": [],
+          "durationMs": 17070,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "9- Final order items",
+          "meta": {},
+          "errs": [],
+          "durationMs": 12366,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "10- Final order items",
+          "meta": {},
+          "errs": [],
+          "durationMs": 14491,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "6- Add multiple items to the shopping cart",
+          "meta": {},
+          "errs": [],
+          "durationMs": 10238,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
